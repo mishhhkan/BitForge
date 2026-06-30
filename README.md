@@ -1,7 +1,7 @@
 # BitForge
 
 <p align="center">
-	<img width="1000" height="562" alt="banner" src="https://github.com/mishhhkan/BitForge/blob/d324b708187bd71fd423ac5d924b73eda1d09d95/images/background.png" />
+	<img width="1920" height="1080" alt="banner" src="https://github.com/mishhhkan/BitForge/blob/c342f24192bb607fdfde5a1a4269d818a4de4045/images/banner.png" />
 </p>
 
 <p align="center">
